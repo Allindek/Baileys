@@ -1,5 +1,5 @@
 {
- "name": "@fx/baileys",
+ "name": "astrofx011",
  "version": "6.7.6",
  "description": "WhatsApp API",
  "author": "FXastro",
@@ -42,5 +42,20 @@
   "sharp": {
    "optional": true
   }
- }
+ },
+ "directories": {
+  "lib": "lib"
+ },
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/FXastro/Baileys.git"
+ },
+ "license": "MIT",
+ "bugs": {
+  "url": "https://github.com/FXastro/Baileys/issues"
+ },
+ "homepage": "https://github.com/FXastro/Baileys#readme"
 }
